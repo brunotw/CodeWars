@@ -31,9 +31,5 @@ namespace DirectionsReduction
 
             CollectionAssert.AreEqual(b, DirReduction.DirReduc(a));
         }
-
-
-
-
     }
 }

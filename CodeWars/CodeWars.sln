@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-<<<<<<< HEAD
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DescendingOrder", "DescendingOrder\DescendingOrder.csproj", "{7CE8D4F8-3A1A-4090-8C88-FE4468B4ED02}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TakeaTenMinuteWalk", "TakeaTenMinuteWalk\TakeaTenMinuteWalk.csproj", "{3150809A-A542-4BFD-B127-6DB401922900}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectionsReduction", "DirectionsReduction\DirectionsReduction.csproj", "{4A687E5B-BC84-42E9-94C7-717E853E2945}"
-=======
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DirectionsReduction", "DirectionsReduction\DirectionsReduction.csproj", "{4A687E5B-BC84-42E9-94C7-717E853E2945}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplaceWithAlphabetPosition", "ReplaceWithAlphabetPosition\ReplaceWithAlphabetPosition.csproj", "{7FB404D5-A624-49C0-A88D-A950B65B3B72}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReduceButGrow", "ReduceButGrow\ReduceButGrow.csproj", "{6D9B5B2D-6224-4EB6-BE84-45B6BCAC59DD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicMathematicalOperations", "BasicMathematicalOperations\BasicMathematicalOperations.csproj", "{C15D8041-52EF-4680-B0CA-0D78BC84FF49}"
->>>>>>> 48fa6b1e5a1c916f6def7bcf193ff1c21aacbb47
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle", "Triangle\Triangle.csproj", "{8FE661C0-3977-4600-A737-EAEA8522CE20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,7 +23,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-<<<<<<< HEAD
 		{7CE8D4F8-3A1A-4090-8C88-FE4468B4ED02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7CE8D4F8-3A1A-4090-8C88-FE4468B4ED02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CE8D4F8-3A1A-4090-8C88-FE4468B4ED02}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -36,7 +35,6 @@ Global
 		{4A687E5B-BC84-42E9-94C7-717E853E2945}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A687E5B-BC84-42E9-94C7-717E853E2945}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A687E5B-BC84-42E9-94C7-717E853E2945}.Release|Any CPU.Build.0 = Release|Any CPU
-=======
 		{7FB404D5-A624-49C0-A88D-A950B65B3B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7FB404D5-A624-49C0-A88D-A950B65B3B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FB404D5-A624-49C0-A88D-A950B65B3B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -49,7 +47,10 @@ Global
 		{C15D8041-52EF-4680-B0CA-0D78BC84FF49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C15D8041-52EF-4680-B0CA-0D78BC84FF49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C15D8041-52EF-4680-B0CA-0D78BC84FF49}.Release|Any CPU.Build.0 = Release|Any CPU
->>>>>>> 48fa6b1e5a1c916f6def7bcf193ff1c21aacbb47
+		{8FE661C0-3977-4600-A737-EAEA8522CE20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE661C0-3977-4600-A737-EAEA8522CE20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE661C0-3977-4600-A737-EAEA8522CE20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE661C0-3977-4600-A737-EAEA8522CE20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
