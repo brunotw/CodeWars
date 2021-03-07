@@ -15,7 +15,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReduceButGrow", "ReduceButG
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicMathematicalOperations", "BasicMathematicalOperations\BasicMathematicalOperations.csproj", "{C15D8041-52EF-4680-B0CA-0D78BC84FF49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle", "Triangle\Triangle.csproj", "{8FE661C0-3977-4600-A737-EAEA8522CE20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangle", "Triangle\Triangle.csproj", "{8FE661C0-3977-4600-A737-EAEA8522CE20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakCamelCase", "BreakCamelCase\BreakCamelCase.csproj", "{AFE96F65-F5A2-46D0-A29B-51EF87F7E593}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{8FE661C0-3977-4600-A737-EAEA8522CE20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FE661C0-3977-4600-A737-EAEA8522CE20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FE661C0-3977-4600-A737-EAEA8522CE20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFE96F65-F5A2-46D0-A29B-51EF87F7E593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE96F65-F5A2-46D0-A29B-51EF87F7E593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE96F65-F5A2-46D0-A29B-51EF87F7E593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE96F65-F5A2-46D0-A29B-51EF87F7E593}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
